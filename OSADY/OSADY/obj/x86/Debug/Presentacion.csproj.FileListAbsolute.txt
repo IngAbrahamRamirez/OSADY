@@ -1,0 +1,262 @@
+E:\OSADY\OSADY\bin\Debug\OSADY.exe
+E:\OSADY\OSADY\bin\Debug\OSADY.pdb
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+E:\OSADY\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.exe
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.pdb
+E:\OSADY\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.exe
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.pdb
+E:\OSADY - copia\OSADY\bin\Debug\OSADY.exe
+E:\OSADY - copia\OSADY\bin\Debug\OSADY.pdb
+E:\OSADY - copia\OSADY\bin\Debug\Negocio.dll
+E:\OSADY - copia\OSADY\bin\Debug\Negocio.pdb
+E:\OSADY - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\OSADY - copia\OSADY\bin\Debug\Datos.dll
+E:\OSADY - copia\OSADY\bin\Debug\Datos.pdb
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+E:\OSADY - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+E:\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+E:\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+E:\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+E:\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+E:\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+E:\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+E:\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe.config
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_Dotacion.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe.config
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_Dotacion.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_Liquidación.resources
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe.config
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacionRH.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContratoRH.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacionRH.resources
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe.config
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_articulo.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\RdlCompile.cache
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_ReporteArticulo.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContratoSCR.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacionSCR.resources
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleadoSCRcs.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe.config
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.exe
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\OSADY.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CambioContrasena.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_CrearUsuario.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContratoRH.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionContratoSCR.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacionRH.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionDotacionSCR.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado2.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleadoSCRcs.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacionRH.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuRecursosHumanos.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_MenuSecretaria.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.P_ReporteArticulo.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_articulo.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_Dotacion.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\OSADY.Reportes.Form_Reporte_Liquidación.resources
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\RdlCompile.cache
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\OSADY\obj\x86\Debug\RdlCompile.compiled

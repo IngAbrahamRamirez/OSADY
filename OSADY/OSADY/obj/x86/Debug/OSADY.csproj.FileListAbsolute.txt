@@ -1,0 +1,29 @@
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\bin\Debug\OSADY.exe
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\bin\Debug\OSADY.pdb
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.csproj.GenerateResource.Cache
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.exe
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.pdb
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+C:\Users\Julian Manosalva\Documents\Visual Studio 2010\Projects\OSADY\OSADY\obj\x86\Debug\OSADY.csprojResolveAssemblyReference.cache
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.exe
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.pdb
+E:\OSADY\OSADY\bin\Debug\OSADY.exe
+E:\OSADY\OSADY\bin\Debug\OSADY.pdb
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.csprojResolveAssemblyReference.cache
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.Properties.Resources.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionArticulo.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionContrato.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionDotacion.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionEmpleado.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionLiquidacion.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_GestionUsuario.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_Login.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.P_MenuGerenteAdministrativo.resources
+E:\OSADY\OSADY\obj\x86\Debug\OSADY.csproj.GenerateResource.Cache

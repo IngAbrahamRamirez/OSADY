@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ECECEDE9-9903-49D8-8BFD-15B2E437ADD7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OSADY</RootNamespace>
+    <AssemblyName>OSADY</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OSADYDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OSADYDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="P_CambioContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_CambioContrasena.Designer.cs">
+      <DependentUpon>P_CambioContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_CrearUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_CrearUsuario.Designer.cs">
+      <DependentUpon>P_CrearUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionArticulo.Designer.cs">
+      <DependentUpon>P_GestionArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionContrato.Designer.cs">
+      <DependentUpon>P_GestionContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionContratoRH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionContratoRH.Designer.cs">
+      <DependentUpon>P_GestionContratoRH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionContratoSCR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionContratoSCR.Designer.cs">
+      <DependentUpon>P_GestionContratoSCR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionDotacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionDotacion.Designer.cs">
+      <DependentUpon>P_GestionDotacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionDotacionRH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionDotacionRH.Designer.cs">
+      <DependentUpon>P_GestionDotacionRH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionDotacionSCR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionDotacionSCR.Designer.cs">
+      <DependentUpon>P_GestionDotacionSCR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionEmpleado.Designer.cs">
+      <DependentUpon>P_GestionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionEmpleado2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionEmpleado2.Designer.cs">
+      <DependentUpon>P_GestionEmpleado2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionEmpleadoSCRcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionEmpleadoSCRcs.Designer.cs">
+      <DependentUpon>P_GestionEmpleadoSCRcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionLiquidacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionLiquidacion.Designer.cs">
+      <DependentUpon>P_GestionLiquidacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionLiquidacionRH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionLiquidacionRH.Designer.cs">
+      <DependentUpon>P_GestionLiquidacionRH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_GestionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_GestionUsuario.Designer.cs">
+      <DependentUpon>P_GestionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_Login.Designer.cs">
+      <DependentUpon>P_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_MenuGerenteAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_MenuGerenteAdministrativo.Designer.cs">
+      <DependentUpon>P_MenuGerenteAdministrativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_MenuRecursosHumanos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_MenuRecursosHumanos.Designer.cs">
+      <DependentUpon>P_MenuRecursosHumanos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_MenuSecretaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_MenuSecretaria.Designer.cs">
+      <DependentUpon>P_MenuSecretaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_ReporteArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_ReporteArticulo.Designer.cs">
+      <DependentUpon>P_ReporteArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_articulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_articulo.Designer.cs">
+      <DependentUpon>Form_Reporte_articulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_Dotacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_Dotacion.Designer.cs">
+      <DependentUpon>Form_Reporte_Dotacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_Liquidación.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Form_Reporte_Liquidación.Designer.cs">
+      <DependentUpon>Form_Reporte_Liquidación.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="P_CambioContrasena.resx">
+      <DependentUpon>P_CambioContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_CrearUsuario.resx">
+      <DependentUpon>P_CrearUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionArticulo.resx">
+      <DependentUpon>P_GestionArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionContrato.resx">
+      <DependentUpon>P_GestionContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionContratoRH.resx">
+      <DependentUpon>P_GestionContratoRH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionContratoSCR.resx">
+      <DependentUpon>P_GestionContratoSCR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionDotacion.resx">
+      <DependentUpon>P_GestionDotacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionDotacionRH.resx">
+      <DependentUpon>P_GestionDotacionRH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionDotacionSCR.resx">
+      <DependentUpon>P_GestionDotacionSCR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionEmpleado.resx">
+      <DependentUpon>P_GestionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionEmpleado2.resx">
+      <DependentUpon>P_GestionEmpleado2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionEmpleadoSCRcs.resx">
+      <DependentUpon>P_GestionEmpleadoSCRcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionLiquidacion.resx">
+      <DependentUpon>P_GestionLiquidacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionLiquidacionRH.resx">
+      <DependentUpon>P_GestionLiquidacionRH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_GestionUsuario.resx">
+      <DependentUpon>P_GestionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_Login.resx">
+      <DependentUpon>P_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_MenuGerenteAdministrativo.resx">
+      <DependentUpon>P_MenuGerenteAdministrativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_MenuRecursosHumanos.resx">
+      <DependentUpon>P_MenuRecursosHumanos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_MenuSecretaria.resx">
+      <DependentUpon>P_MenuSecretaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_ReporteArticulo.resx">
+      <DependentUpon>P_ReporteArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Form_Reporte_articulo.resx">
+      <DependentUpon>Form_Reporte_articulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Form_Reporte_Dotacion.resx">
+      <DependentUpon>Form_Reporte_Dotacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Form_Reporte_Liquidación.resx">
+      <DependentUpon>Form_Reporte_Liquidación.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Report1.rdlc" />
+    <None Include="app.config" />
+    <None Include="OSADYDataSet.xsc">
+      <DependentUpon>OSADYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OSADYDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OSADYDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OSADYDataSet.xss">
+      <DependentUpon>OSADYDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO KODO1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USUARIO2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contraseña2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cargo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dotacion3_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dotacion2_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dotacion1_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado3_kodo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado2_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado1_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Liquidacion_kodo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Liquidacion_kodo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Liquidacion_kodo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario_Kodo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario_kodo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario_kodo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empeado png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Edit-User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liquidacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dotacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuuarioo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cooontratoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrato1_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrato2_kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrato1_kodo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\articulo_kodo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\articulo_kodo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\articulo_kodo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Articuloooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{5198B516-9481-4544-8596-87E163B5FCDA}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar_Kodo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar_Kodo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_Impuestos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expiracion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reporte_articulo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

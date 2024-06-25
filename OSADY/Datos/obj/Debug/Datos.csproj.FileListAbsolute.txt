@@ -1,0 +1,49 @@
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Datos\bin\Debug\Datos.dll
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Datos\bin\Debug\Datos.pdb
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Datos\obj\Debug\Datos.dll
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Datos\obj\Debug\Datos.pdb
+E:\OSADY\Datos\bin\Debug\Datos.dll
+E:\OSADY\Datos\bin\Debug\Datos.pdb
+E:\OSADY\Datos\obj\Debug\Datos.dll
+E:\OSADY\Datos\obj\Debug\Datos.pdb
+E:\OSADY\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\Datos\obj\Debug\Datos.dll
+E:\OSADY - copia\Datos\obj\Debug\Datos.pdb
+E:\OSADY - copia\Datos\bin\Debug\Datos.dll
+E:\OSADY - copia\Datos\bin\Debug\Datos.pdb
+E:\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+E:\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+E:\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+E:\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Datos\obj\Debug\Datos.pdb

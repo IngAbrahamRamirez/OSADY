@@ -1,0 +1,72 @@
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Negocio\bin\Debug\Negocio.dll
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Negocio\bin\Debug\Negocio.pdb
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Negocio\obj\Debug\Negocio.dll
+c:\users\julian manosalva\documents\visual studio 2010\Projects\OSADY\Negocio\obj\Debug\Negocio.pdb
+E:\OSADY\Negocio\bin\Debug\Negocio.dll
+E:\OSADY\Negocio\bin\Debug\Negocio.pdb
+E:\OSADY\Negocio\obj\Debug\Negocio.dll
+E:\OSADY\Negocio\obj\Debug\Negocio.pdb
+E:\OSADY\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\Negocio\bin\Debug\Negocio.dll
+E:\OSADY - copia\Negocio\bin\Debug\Negocio.pdb
+E:\OSADY - copia\Negocio\bin\Debug\Datos.dll
+E:\OSADY - copia\Negocio\bin\Debug\Datos.pdb
+E:\OSADY - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\OSADY - copia\Negocio\obj\Debug\Negocio.dll
+E:\OSADY - copia\Negocio\obj\Debug\Negocio.pdb
+E:\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+E:\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+E:\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+E:\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+E:\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+E:\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+E:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Documents\SISTEMA OSADY\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+J:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+I:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+F:\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\bin\Debug\Datos.pdb
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian Manosalva\Desktop\SUSTENTACIÓN SENA\OSADY - copia - copia\Negocio\obj\Debug\Negocio.pdb
